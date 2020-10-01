@@ -1,0 +1,15 @@
+.logo-img {
+    margin-left: 60px;
+}
+.form-control {
+    margin-left: 60px;
+    width: 25%;
+}
+.navbar-light .navbar-nav .nav-link {
+    margin-left: 60px;
+    color: rgb(10, 2, 2);
+    font-weight: bold;
+}
+.navbar-btn {
+    margin-right: 60px;
+}

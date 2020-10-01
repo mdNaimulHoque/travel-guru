@@ -1,0 +1,10 @@
+.homeDetail-container {
+    margin-top: 100px;
+}
+.homeDetail-part1 h1,p {
+    font-weight: 800;
+    text-align: left;
+}
+.homeDetail-part1 Button {
+    font-weight: bold;
+}
